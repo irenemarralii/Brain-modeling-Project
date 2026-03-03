@@ -1,4 +1,4 @@
-# Brain Modelling Project – Stochastic Resonance in LIF Neurons
+# Brain Modeling Project – Stochastic Resonance in LIF Neurons
 This project is part of a computational neuroscience study focused on modeling neuronal dynamics through mathematical and simulation-based approaches. It explores how simplified neuron models can reproduce biologically meaningful behaviors and how noise influences neural signal processing. 
 The work combines theoretical neuroscience principles with numerical simulations to analyze neural encoding mechanisms.
 

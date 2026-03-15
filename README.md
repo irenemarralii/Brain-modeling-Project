@@ -60,21 +60,21 @@ The computational experiment is organized into several steps.
 ### Stochastic Resonance Curve
 The stochastic resonance curve shows how spike–signal synchronization varies with noise intensity. Synchronization increases with noise up to an optimal level and then decreases as noise dominates spike timing.
 
-![Stochastic Resonance Curve](images/sr_curve.png)
+![Stochastic Resonance Curve](Images/sr_curve.png)
 
 This confirms the existence of an **optimal noise level that maximizes temporal synchronization**.
 
 ### Dependence on Signal Amplitude
 Increasing the amplitude of the sinusoidal input shifts the optimal noise level toward lower values.
 
-![Amplitude Effect](images/amplitude_effect.png)
+![Amplitude Effect](Images/amplitude_effect.png)
 
 This indicates that stronger inputs require less noise to induce phase-locked threshold crossings.
 
 ### Dependence on Bias Current
 Changing the DC bias current modifies the distance from threshold and therefore shifts the stochastic resonance regime.
 
-![Bias Effect](images/bias_effect.png)
+![Bias Effect](Images/bias_effect.png)
 
 Higher bias currents reduce the noise intensity required for optimal synchronization.
 

@@ -81,7 +81,7 @@ Higher bias currents reduce the noise intensity required for optimal synchroniza
 ### Population-Level Effects
 Extending the model to a population of neurons reveals that pooling spikes across neurons produces a robust population-level signal representation. Raster plots and PSTHs show clear oscillatory structure even when individual spike trains are sparse.
 
-![Population Raster and PSTH](images/population_raster_psth.png)
+![Population Raster and PSTH](Images/population_raster_psth.png)
 
 Population averaging stabilizes the temporal representation of the signal and enhances robustness.
 
